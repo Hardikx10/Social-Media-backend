@@ -13,20 +13,20 @@ Steps :
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/social-media-backend.git
-cd social-media-backend
+        git clone https://github.com/yourusername/social-media-backend.git
+        cd social-media-backend
 
 2. Install backend dependencies:
 
-npm install
+        npm install
 
 3. Set up environment variables:
 
 Create a .env file in the backend directory with the following content:
 
-MONGO_URI=your_mongo_db_connection_string
-PORT=5000
-Run the backend server:
-npm start
+        MONGO_URI=your_mongo_db_connection_string
+        PORT=5000
+        Run the backend server:
+        npm start
 
-The backend server will run on http://localhost:5000.
+The backend server will run on http://localhost:5000.   
